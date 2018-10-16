@@ -71,4 +71,4 @@ id,tool_id,substring,assessment_date,required,risk,quality,sustainability,usabil
 70,131,C-CDA 2.1 Samples and Query T,2016-08-13,f,85,80,80,80,In alpha at time of assessment
 71,132,EHR-S FM/FP Publishing,2016-08-13,f,75,75,60,70,Requires command line skills
 72,136,Education Portal,2016-08-13,t,65,75,75,75,
-73.40,HL7 Soup,2018-10-16,t,65,75,75,75
+73,40,HL7 Soup,2018-10-16,t,65,75,75,75,
